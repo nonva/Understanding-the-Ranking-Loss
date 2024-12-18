@@ -56,13 +56,12 @@ The project conducted a comprehensive experimental analysis, with the correspond
 ## Citation
 If you find our code or propcessed data helpful in your research, please kindly cite the following papers.
 ```
-@misc{lin2024understanding,
-      title={Understanding the Ranking Loss for Recommendation with Sparse User Feedback}, 
-      author={Zhutian Lin and Junwei Pan and Shangyu Zhang and Ximei Wang and Xi Xiao and Shudong Huang and Lei Xiao and Jie Jiang},
-      year={2024},
-      eprint={2403.14144},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR}
+@inproceedings{lin2024understanding,
+  title={Understanding the ranking loss for recommendation with sparse user feedback},
+  author={Lin, Zhutian and Pan, Junwei and Zhang, Shangyu and Wang, Ximei and Xiao, Xi and Huang, Shudong and Xiao, Lei and Jiang, Jie},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={5409--5418},
+  year={2024}
 }
 ```
 Our code is based on the FuxiCTR and BARS.
